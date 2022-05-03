@@ -1,5 +1,5 @@
 # What is it?
-Pretty much this protects your websites content from being stolen.
+This protects your websites content from being stolen.
 
 # What does it do?
 - Disables printing.
