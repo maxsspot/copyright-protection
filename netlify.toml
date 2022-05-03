@@ -1,0 +1,5 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+  X-XSS-Protection = "1"
+  Access-Control-Allow-Origin = "*"
