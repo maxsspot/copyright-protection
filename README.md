@@ -1,5 +1,5 @@
 # What is it?
-This protects your websites content from being stolen.
+This CDN protects your websites content from being stolen.
 
 # What does it do?
 - Disables printing.
