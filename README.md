@@ -6,7 +6,8 @@ This CDN protects your websites content from being stolen.
 - Disables copying text and images.
 - Disables downloading webpage.
 - Disables viewing source code.
+- Disables context menu.
 
 # Can I use this?
 Yes you can! Just include the below tag in your head tag. ↓
-<script src = "https://maxsspot.github.io/copyright-protection/protecting.js"></script>
+<script src = "https://copyright-protection.netlify.app/protecting.js"></script>
