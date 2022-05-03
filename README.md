@@ -10,4 +10,4 @@ This CDN protects your websites content from being stolen.
 
 # Can I use this?
 Yes you can! Just include the below tag in your head tag. ↓
-<script src = "https://copyright-protection.netlify.app/protecting.js"></script>
+<script src="https://copyright-protection.netlify.app/protecting.js" integrity="sha512-6QwEJAHPh/z5LbzXMNQcrPkefghrw3lXluWSgqGEL8anAT8hJnOBER2YBzlrRzQclAMUp3i2Hh20ROGBipG4dg==" crossorigin="anonymous"></script>
