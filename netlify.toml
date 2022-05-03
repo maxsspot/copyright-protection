@@ -3,3 +3,9 @@
   [headers.values]
   X-XSS-Protection = "1"
   Access-Control-Allow-Origin = "*"
+  X-Frame-Options = "deny"
+  X-Content-Type-Options = "nosniff"
+  Referrer-Policy = "no-referrer"
+  Cross-Origin-Embedder-Policy = "same-origin"
+  Cross-Origin-Opener-Policy = "same-origin"
+  Cross-Origin-Resource-Policy = "require-corp";
