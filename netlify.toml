@@ -24,6 +24,7 @@ Content-Security-Policy = '''
             form-action 'none';
             media-src 'none';
             object-src 'none';
+            frame-src 'none';
             
             require-trusted-types-for 'script';
         '''
